@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Bachelors in Computer Science 
 - 📫 How to reach me: gautamshah361@gmail.com
 - 😄 Let's connect
-- ⚡ Fun Fact- Computer Science is easy.
+- ⚡ Fun Fact-.
   
 ### Connect with me:
 <div id="badges">
@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,java,github,git,cpp,html,css,mysql,php&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,mysql,opencv,vscode,github,git,html,css,javascript,php&perline=5)](https://skillicons.dev)
 
 ![Gautam Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamshah01&show_icons=true&theme=dark)
 
