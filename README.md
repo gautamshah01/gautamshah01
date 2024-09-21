@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Bachelors in Computer Science 
 - 📫 How to reach me: gautamshah361@gmail.com
 - 😄 Let's connect
-- ⚡ Fun Fact-.
+- ⚡ Let's collaborate on AI/ML Projects.
   
 ### Connect with me:
 <div id="badges">
