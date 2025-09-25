@@ -14,7 +14,7 @@
    <a href="https://www.instagram.com/gautam_shah05">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://linkedin.com/gautam_shah05">
+   <a href="https://linkedin.com/in/gautamshah5">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
    <a href="https://twitter.com/GautamShah05">
