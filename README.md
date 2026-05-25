@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Gautam Shah</h1>
 
 - 🔭 I have worked as Campus Ambassador at E-cell,IIT BOMBAY
-- 🌱 I’m currently learning Bachelors in Computer Science 
+- 🌱 I’ve graduated from Mumbai University in Bachelors of Science in Computer Science 
 - 📫 How to reach me: gautamshah361@gmail.com
 - 😄 Let's connect
 - ⚡ Let's collaborate on AI/ML Projects.
