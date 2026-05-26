@@ -23,12 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,mysql,opencv,vscode,github,git,html,css,javascript,php&perline=5)](https://skillicons.dev)
-
-![Gautam Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamshah01&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamshah01&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,mysql,opencv,vscode,github,git,html,css,javascript&perline=5)](https://skillicons.dev)
 
 
-<br>
-⭐️ From [gautamshah01](https://github.com/gautamshah01)
+
